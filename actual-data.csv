@@ -1,0 +1,564 @@
+aurora-mysql,5.7.mysql_aurora.2.07.0,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.0,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.1,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.1,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.2,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.2,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.3,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.3,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.4,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.4,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.5,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.5,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.6,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.6,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.7,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.7,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.07.8,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.07.8,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.08.3,Aurora MySQL,aurora-mysql5.7,Aurora MySQL (compatible with MySQL 5.7.2.08.3),available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.09.0,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.09.0,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.09.1,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.09.1,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.09.2,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.09.2,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.09.3,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.09.3,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.10.0,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.10.0,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.10.1,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.10.1,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.10.2,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.10.2,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.10.3,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.10.3,available,5.7
+
+aurora-mysql,5.7.mysql_aurora.2.11.0,Aurora MySQL,aurora-mysql5.7,Aurora (MySQL 5.7) 2.11.0,available,5.7
+
+aurora-mysql,8.0.mysql_aurora.3.01.0,Aurora MySQL,aurora-mysql8.0,Aurora MySQL 3.01.0 (compatible with MySQL 8.0.23),available,8.0
+
+aurora-mysql,8.0.mysql_aurora.3.01.1,Aurora MySQL,aurora-mysql8.0,Aurora MySQL 3.01.1 (compatible with MySQL 8.0.23),available,8.0
+
+aurora-mysql,8.0.mysql_aurora.3.02.0,Aurora MySQL,aurora-mysql8.0,Aurora MySQL 3.02.0 (compatible with MySQL 8.0.23),available,8.0
+
+aurora-mysql,8.0.mysql_aurora.3.02.1,Aurora MySQL,aurora-mysql8.0,Aurora MySQL 3.02.1 (compatible with MySQL 8.0.23),available,8.0
+
+aurora-mysql,8.0.mysql_aurora.3.02.2,Aurora MySQL,aurora-mysql8.0,Aurora MySQL 3.02.2 (compatible with MySQL 8.0.23),available,8.0
+
+neptune,1.0.3.0,neptune,neptune1,Neptune 1.0.3.0.R3,available,1.0
+
+neptune,1.0.4.0,neptune,neptune1,Neptune 1.0.4.0.R2,available,1.0
+
+neptune,1.0.4.1,neptune,neptune1,Neptune 1.0.4.1.R4,available,1.0
+
+neptune,1.0.4.2,neptune,neptune1,Neptune 1.0.4.2.R5,available,1.0
+
+neptune,1.0.5.0,neptune,neptune1,Neptune 1.0.5.0.R5,available,1.0
+
+neptune,1.0.5.1,neptune,neptune1,Neptune 1.0.5.1.R4,available,1.0
+
+neptune,1.1.0.0,neptune,neptune1,Neptune 1.1.0.0.R2,available,1.1
+
+neptune,1.1.1.0,neptune,neptune1,Neptune 1.1.1.0.R7,available,1.1
+
+neptune,1.2.0.0,neptune,neptune1.2,Neptune 1.2.0.0.R3,available,1.2
+
+neptune,1.2.0.1,neptune,neptune1.2,Neptune 1.2.0.1.R2,available,1.2
+
+neptune,1.2.0.2,neptune,neptune1.2,Neptune 1.2.0.2.R2,available,1.2
+
+aurora-postgresql,10.17,Aurora (PostgreSQL),aurora-postgresql10,Aurora PostgreSQL (Compatible with PostgreSQL 10.17),available,10
+
+aurora-postgresql,10.18,Aurora (PostgreSQL),aurora-postgresql10,Aurora PostgreSQL (Compatible with PostgreSQL 10.18),available,10
+
+aurora-postgresql,10.18,Aurora (PostgreSQL),aurora-postgresql10,Aurora PostgreSQL (compatible with PostgreSQL 10.18),available,10
+
+aurora-postgresql,10.19,Aurora (PostgreSQL),aurora-postgresql10,Aurora PostgreSQL (Compatible with PostgreSQL 10.19),available,10
+
+aurora-postgresql,10.20,Aurora (PostgreSQL),aurora-postgresql10,Aurora PostgreSQL (Compatible with PostgreSQL 10.20),available,10
+
+aurora-postgresql,10.21,Aurora (PostgreSQL),aurora-postgresql10,Aurora PostgreSQL (Compatible with PostgreSQL 10.21),available,10
+
+aurora-postgresql,11.9,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.9),available,11
+
+aurora-postgresql,11.12,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.12),available,11
+
+aurora-postgresql,11.13,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.13),available,11
+
+aurora-postgresql,11.13,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (compatible with PostgreSQL 11.13),available,11
+
+aurora-postgresql,11.14,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.14),available,11
+
+aurora-postgresql,11.15,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.15),available,11
+
+aurora-postgresql,11.16,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.16),available,11
+
+aurora-postgresql,11.17,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.17),available,11
+
+aurora-postgresql,11.18,Aurora (PostgreSQL),aurora-postgresql11,Aurora PostgreSQL (Compatible with PostgreSQL 11.18),available,11
+
+aurora-postgresql,12.7,Aurora (PostgreSQL),aurora-postgresql12,Aurora PostgreSQL (Compatible with PostgreSQL 12.7),available,12
+
+aurora-postgresql,12.8,Aurora (PostgreSQL),aurora-postgresql12,Aurora PostgreSQL (Compatible with PostgreSQL 12.8),available,12
+
+aurora-postgresql,12.9,Aurora (PostgreSQL),aurora-postgresql12,Aurora PostgreSQL (Compatible with PostgreSQL 12.9),available,12
+
+aurora-postgresql,12.10,Aurora (PostgreSQL),aurora-postgresql12,Aurora PostgreSQL (Compatible with PostgreSQL 12.10),available,12
+
+aurora-postgresql,12.11,Aurora (PostgreSQL),aurora-postgresql12,Aurora PostgreSQL (Compatible with PostgreSQL 12.11),available,12
+
+aurora-postgresql,12.12,Aurora (PostgreSQL),aurora-postgresql12,Aurora PostgreSQL (Compatible with PostgreSQL 12.12),available,12
+
+aurora-postgresql,12.13,Aurora (PostgreSQL),aurora-postgresql12,Aurora PostgreSQL (Compatible with PostgreSQL 12.13),available,12
+
+aurora-postgresql,13.3,Aurora (PostgreSQL),aurora-postgresql13,Aurora PostgreSQL (Compatible with PostgreSQL 13.3),available,13
+
+aurora-postgresql,13.4,Aurora (PostgreSQL),aurora-postgresql13,Aurora PostgreSQL (Compatible with PostgreSQL 13.4),available,13
+
+aurora-postgresql,13.5,Aurora (PostgreSQL),aurora-postgresql13,Aurora PostgreSQL (Compatible with PostgreSQL 13.5),available,13
+
+aurora-postgresql,13.6,Aurora (PostgreSQL),aurora-postgresql13,Aurora PostgreSQL (Compatible with PostgreSQL 13.6),available,13
+
+aurora-postgresql,13.7,Aurora (PostgreSQL),aurora-postgresql13,Aurora PostgreSQL (Compatible with PostgreSQL 13.7),available,13
+
+aurora-postgresql,13.8,Aurora (PostgreSQL),aurora-postgresql13,Aurora PostgreSQL (Compatible with PostgreSQL 13.8),available,13
+
+aurora-postgresql,13.9,Aurora (PostgreSQL),aurora-postgresql13,Aurora PostgreSQL (Compatible with PostgreSQL 13.9),available,13
+
+aurora-postgresql,14.3,Aurora (PostgreSQL),aurora-postgresql14,Aurora PostgreSQL (Compatible with PostgreSQL 14.3),available,14
+
+aurora-postgresql,14.4,Aurora (PostgreSQL),aurora-postgresql14,Aurora PostgreSQL (Compatible with PostgreSQL 14.4),available,14
+
+aurora-postgresql,14.5,Aurora (PostgreSQL),aurora-postgresql14,Aurora PostgreSQL (Compatible with PostgreSQL 14.5),available,14
+
+aurora-postgresql,14.6,Aurora (PostgreSQL),aurora-postgresql14,Aurora PostgreSQL (Compatible with PostgreSQL 14.6),available,14
+
+mariadb,10.3.34,MariaDB Community Edition,mariadb10.3,MariaDB 10.3.34,available,10.3
+
+mariadb,10.3.35,MariaDB Community Edition,mariadb10.3,MariaDB 10.3.35,available,10.3
+
+mariadb,10.3.36,MariaDB Community Edition,mariadb10.3,MariaDB 10.3.36,available,10.3
+
+mariadb,10.3.37,MariaDB Community Edition,mariadb10.3,MariaDB 10.3.37,available,10.3
+
+mariadb,10.4.24,MariaDB Community Edition,mariadb10.4,MariaDB 10.4.24,available,10.4
+
+mariadb,10.4.25,MariaDB Community Edition,mariadb10.4,MariaDB 10.4.25,available,10.4
+
+mariadb,10.4.26,MariaDB Community Edition,mariadb10.4,MariaDB 10.4.26,available,10.4
+
+mariadb,10.4.27,MariaDB Community Edition,mariadb10.4,MariaDB 10.4.27,available,10.4
+
+mariadb,10.5.12,MariaDB Community Edition,mariadb10.5,MariaDB 10.5.12,available,10.5
+
+mariadb,10.5.13,MariaDB Community Edition,mariadb10.5,MariaDB 10.5.13,available,10.5
+
+mariadb,10.5.15,MariaDB Community Edition,mariadb10.5,MariaDB 10.5.15,available,10.5
+
+mariadb,10.5.16,MariaDB Community Edition,mariadb10.5,MariaDB 10.5.16,available,10.5
+
+mariadb,10.5.17,MariaDB Community Edition,mariadb10.5,MariaDB 10.5.17,available,10.5
+
+mariadb,10.5.18,MariaDB Community Edition,mariadb10.5,MariaDB 10.5.18,available,10.5
+
+mariadb,10.6.5,MariaDB Community Edition,mariadb10.6,MariaDB 10.6.5,available,10.6
+
+mariadb,10.6.7,MariaDB Community Edition,mariadb10.6,MariaDB 10.6.7,available,10.6
+
+mariadb,10.6.8,MariaDB Community Edition,mariadb10.6,MariaDB 10.6.8,available,10.6
+
+mariadb,10.6.10,MariaDB Community Edition,mariadb10.6,MariaDB 10.6.10,available,10.6
+
+mariadb,10.6.11,MariaDB Community Edition,mariadb10.6,MariaDB 10.6.11,available,10.6
+
+mysql,5.7.33,MySQL Community Edition,mysql5.7,MySQL 5.7.33,available,5.7
+
+mysql,5.7.34,MySQL Community Edition,mysql5.7,MySQL 5.7.34,available,5.7
+
+mysql,5.7.37,MySQL Community Edition,mysql5.7,MySQL 5.7.37,available,5.7
+
+mysql,5.7.38,MySQL Community Edition,mysql5.7,MySQL 5.7.38,available,5.7
+
+mysql,5.7.39,MySQL Community Edition,mysql5.7,MySQL 5.7.39,available,5.7
+
+mysql,5.7.40,MySQL Community Edition,mysql5.7,MySQL 5.7.40,available,5.7
+
+mysql,8.0.23,MySQL Community Edition,mysql8.0,MySQL 8.0.23,available,8.0
+
+mysql,8.0.25,MySQL Community Edition,mysql8.0,MySQL 8.0.25,available,8.0
+
+mysql,8.0.26,MySQL Community Edition,mysql8.0,MySQL 8.0.26,available,8.0
+
+mysql,8.0.27,MySQL Community Edition,mysql8.0,MySQL 8.0.27,available,8.0
+
+mysql,8.0.28,MySQL Community Edition,mysql8.0,MySQL 8.0.28,available,8.0
+
+mysql,8.0.30,MySQL Community Edition,mysql8.0,MySQL 8.0.30,available,8.0
+
+mysql,8.0.31,MySQL Community Edition,mysql8.0,MySQL 8.0.31,available,8.0
+
+oracle-ee,19.0.0.0.ru-2019-07.rur-2019-07.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2019-07.rur-2019-07.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2019-10.rur-2019-10.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2019-10.rur-2019-10.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2020-01.rur-2020-01.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2020-01.rur-2020-01.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2020-04.rur-2020-04.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2020-04.rur-2020-04.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2020-07.rur-2020-07.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2020-07.rur-2020-07.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2020-10.rur-2020-10.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2020-10.rur-2020-10.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2021-01.rur-2021-01.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2021-01.rur-2021-01.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2021-01.rur-2021-01.r2,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2021-01.rur-2021-01.r2,available,19
+
+oracle-ee,19.0.0.0.ru-2021-04.rur-2021-04.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2021-04.rur-2021-04.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2021-07.rur-2021-07.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2021-07.rur-2021-07.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2021-10.rur-2021-10.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2021-10.rur-2021-10.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2022-01.rur-2022-01.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2022-01.rur-2022-01.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2022-04.rur-2022-04.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2022-04.rur-2022-04.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2022-07.rur-2022-07.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2022-07.rur-2022-07.r1,available,19
+
+oracle-ee,19.0.0.0.ru-2022-10.rur-2022-10.r1,Oracle Database Enterprise Edition,oracle-ee-19,Oracle 19.0.0.0.ru-2022-10.rur-2022-10.r1,available,19
+
+oracle-ee-cdb,19.0.0.0.ru-2021-04.rur-2021-04.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-19,Oracle 19.0.0.0.ru-2021-04.rur-2021-04.r1,available,19
+
+oracle-ee-cdb,19.0.0.0.ru-2021-07.rur-2021-07.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-19,Oracle 19.0.0.0.ru-2021-07.rur-2021-07.r1,available,19
+
+oracle-ee-cdb,19.0.0.0.ru-2021-10.rur-2021-10.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-19,Oracle 19.0.0.0.ru-2021-10.rur-2021-10.r1,available,19
+
+oracle-ee-cdb,19.0.0.0.ru-2022-01.rur-2022-01.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-19,Oracle 19.0.0.0.ru-2022-01.rur-2022-01.r1,available,19
+
+oracle-ee-cdb,19.0.0.0.ru-2022-04.rur-2022-04.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-19,Oracle 19.0.0.0.ru-2022-04.rur-2022-04.r1,available,19
+
+oracle-ee-cdb,19.0.0.0.ru-2022-07.rur-2022-07.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-19,Oracle 19.0.0.0.ru-2022-07.rur-2022-07.r1,available,19
+
+oracle-ee-cdb,19.0.0.0.ru-2022-10.rur-2022-10.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-19,Oracle 19.0.0.0.ru-2022-10.rur-2022-10.r1,available,19
+
+oracle-ee-cdb,21.0.0.0.ru-2022-01.rur-2022-01.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-21,Oracle 21.0.0.0.ru-2022-01.rur-2022-01.r1,available,21
+
+oracle-ee-cdb,21.0.0.0.ru-2022-04.rur-2022-04.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-21,Oracle 21.0.0.0.ru-2022-04.rur-2022-04.r1,available,21
+
+oracle-ee-cdb,21.0.0.0.ru-2022-07.rur-2022-07.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-21,Oracle 21.0.0.0.ru-2022-07.rur-2022-07.r1,available,21
+
+oracle-ee-cdb,21.0.0.0.ru-2022-10.rur-2022-10.r1,Oracle Database Enterprise Edition (CDB),oracle-ee-cdb-21,Oracle 21.0.0.0.ru-2022-10.rur-2022-10.r1,available,21
+
+oracle-se2,19.0.0.0.ru-2019-07.rur-2019-07.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2019-07.rur-2019-07.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2019-10.rur-2019-10.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2019-10.rur-2019-10.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2020-01.rur-2020-01.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2020-01.rur-2020-01.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2020-04.rur-2020-04.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2020-04.rur-2020-04.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2020-07.rur-2020-07.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2020-07.rur-2020-07.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2020-10.rur-2020-10.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2020-10.rur-2020-10.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2021-01.rur-2021-01.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2021-01.rur-2021-01.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2021-01.rur-2021-01.r2,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2021-01.rur-2021-01.r2,available,19
+
+oracle-se2,19.0.0.0.ru-2021-04.rur-2021-04.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2021-04.rur-2021-04.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2021-07.rur-2021-07.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2021-07.rur-2021-07.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2021-10.rur-2021-10.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2021-10.rur-2021-10.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2022-01.rur-2022-01.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2022-01.rur-2022-01.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2022-04.rur-2022-04.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2022-04.rur-2022-04.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2022-07.rur-2022-07.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2022-07.rur-2022-07.r1,available,19
+
+oracle-se2,19.0.0.0.ru-2022-10.rur-2022-10.r1,Oracle Database Standard Edition Two,oracle-se2-19,Oracle 19.0.0.0.ru-2022-10.rur-2022-10.r1,available,19
+
+oracle-se2-cdb,19.0.0.0.ru-2021-04.rur-2021-04.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-19,Oracle 19.0.0.0.ru-2021-04.rur-2021-04.r1,available,19
+
+oracle-se2-cdb,19.0.0.0.ru-2021-07.rur-2021-07.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-19,Oracle 19.0.0.0.ru-2021-07.rur-2021-07.r1,available,19
+
+oracle-se2-cdb,19.0.0.0.ru-2021-10.rur-2021-10.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-19,Oracle 19.0.0.0.ru-2021-10.rur-2021-10.r1,available,19
+
+oracle-se2-cdb,19.0.0.0.ru-2022-01.rur-2022-01.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-19,Oracle 19.0.0.0.ru-2022-01.rur-2022-01.r1,available,19
+
+oracle-se2-cdb,19.0.0.0.ru-2022-04.rur-2022-04.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-19,Oracle 19.0.0.0.ru-2022-04.rur-2022-04.r1,available,19
+
+oracle-se2-cdb,19.0.0.0.ru-2022-07.rur-2022-07.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-19,Oracle 19.0.0.0.ru-2022-07.rur-2022-07.r1,available,19
+
+oracle-se2-cdb,19.0.0.0.ru-2022-10.rur-2022-10.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-19,Oracle 19.0.0.0.ru-2022-10.rur-2022-10.r1,available,19
+
+oracle-se2-cdb,21.0.0.0.ru-2022-01.rur-2022-01.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-21,Oracle 21.0.0.0.ru-2022-01.rur-2022-01.r1,available,21
+
+oracle-se2-cdb,21.0.0.0.ru-2022-04.rur-2022-04.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-21,Oracle 21.0.0.0.ru-2022-04.rur-2022-04.r1,available,21
+
+oracle-se2-cdb,21.0.0.0.ru-2022-07.rur-2022-07.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-21,Oracle 21.0.0.0.ru-2022-07.rur-2022-07.r1,available,21
+
+oracle-se2-cdb,21.0.0.0.ru-2022-10.rur-2022-10.r1,Oracle Database Standard Edition Two (CDB),oracle-se2-cdb-21,Oracle 21.0.0.0.ru-2022-10.rur-2022-10.r1,available,21
+
+aurora,5.6.10a,Aurora,aurora5.6,Aurora (MySQL)-5.6.10a,available,5.6
+
+aurora,5.6.10a,Aurora,aurora5.6,Aurora (MySQL 5.6) global_10a,available,5.6
+
+aurora,5.6.mysql_aurora.1.17.9,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.17.9,available,5.6
+
+aurora,5.6.mysql_aurora.1.19.0,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.19.0,available,5.6
+
+aurora,5.6.mysql_aurora.1.19.0,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.19.0,available,5.6
+
+aurora,5.6.mysql_aurora.1.19.1,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.19.1,available,5.6
+
+aurora,5.6.mysql_aurora.1.19.2,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.19.2,available,5.6
+
+aurora,5.6.mysql_aurora.1.19.5,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.19.5,available,5.6
+
+aurora,5.6.mysql_aurora.1.19.6,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.19.6,available,5.6
+
+aurora,5.6.mysql_aurora.1.20.0,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.20.0,available,5.6
+
+aurora,5.6.mysql_aurora.1.20.1,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.20.1,available,5.6
+
+aurora,5.6.mysql_aurora.1.21.0,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.21.0,available,5.6
+
+aurora,5.6.mysql_aurora.1.22.0,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.22.0,available,5.6
+
+aurora,5.6.mysql_aurora.1.22.1,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.22.1,available,5.6
+
+aurora,5.6.mysql_aurora.1.22.2,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.22.2,available,5.6
+
+aurora,5.6.mysql_aurora.1.22.3,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.22.3,available,5.6
+
+aurora,5.6.mysql_aurora.1.22.3,Aurora,aurora5.6,Aurora MySQL (compatible with MySQL 5.6.1.22.3),available,5.6
+
+aurora,5.6.mysql_aurora.1.22.4,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.22.4,available,5.6
+
+aurora,5.6.mysql_aurora.1.22.5,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.22.5,available,5.6
+
+aurora,5.6.mysql_aurora.1.23.0,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.23.0,available,5.6
+
+aurora,5.6.mysql_aurora.1.23.1,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.23.1,available,5.6
+
+aurora,5.6.mysql_aurora.1.23.2,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.23.2,available,5.6
+
+aurora,5.6.mysql_aurora.1.23.3,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.23.3,available,5.6
+
+aurora,5.6.mysql_aurora.1.23.4,Aurora,aurora5.6,Aurora (MySQL 5.6) 1.23.4,available,5.6
+
+postgres,10.17,PostgreSQL,postgres10,PostgreSQL 10.17-R1,available,10
+
+postgres,10.18,PostgreSQL,postgres10,PostgreSQL 10.18-R1,available,10
+
+postgres,10.19,PostgreSQL,postgres10,PostgreSQL 10.19-R1,available,10
+
+postgres,10.20,PostgreSQL,postgres10,PostgreSQL 10.20-R1,available,10
+
+postgres,10.21,PostgreSQL,postgres10,PostgreSQL 10.21-R1,available,10
+
+postgres,10.22,PostgreSQL,postgres10,PostgreSQL 10.22-R1,available,10
+
+postgres,10.23,PostgreSQL,postgres10,PostgreSQL 10.23-R1,available,10
+
+postgres,11.12,PostgreSQL,postgres11,PostgreSQL 11.12-R1,available,11
+
+postgres,11.13,PostgreSQL,postgres11,PostgreSQL 11.13-R1,available,11
+
+postgres,11.14,PostgreSQL,postgres11,PostgreSQL 11.14-R1,available,11
+
+postgres,11.15,PostgreSQL,postgres11,PostgreSQL 11.15-R1,available,11
+
+postgres,11.16,PostgreSQL,postgres11,PostgreSQL 11.16-R1,available,11
+
+postgres,11.17,PostgreSQL,postgres11,PostgreSQL 11.17-R1,available,11
+
+postgres,11.18,PostgreSQL,postgres11,PostgreSQL 11.18-R1,available,11
+
+postgres,12.7,PostgreSQL,postgres12,PostgreSQL 12.7-R1,available,12
+
+postgres,12.8,PostgreSQL,postgres12,PostgreSQL 12.8-R1,available,12
+
+postgres,12.9,PostgreSQL,postgres12,PostgreSQL 12.9-R1,available,12
+
+postgres,12.10,PostgreSQL,postgres12,PostgreSQL 12.10-R1,available,12
+
+postgres,12.11,PostgreSQL,postgres12,PostgreSQL 12.11-R1,available,12
+
+postgres,12.12,PostgreSQL,postgres12,PostgreSQL 12.12-R1,available,12
+
+postgres,12.13,PostgreSQL,postgres12,PostgreSQL 12.13-R1,available,12
+
+postgres,13.3,PostgreSQL,postgres13,PostgreSQL 13.3-R1,available,13
+
+postgres,13.4,PostgreSQL,postgres13,PostgreSQL 13.4-R1,available,13
+
+postgres,13.5,PostgreSQL,postgres13,PostgreSQL 13.5-R1,available,13
+
+postgres,13.6,PostgreSQL,postgres13,PostgreSQL 13.6-R1,available,13
+
+postgres,13.7,PostgreSQL,postgres13,PostgreSQL 13.7-R1,available,13
+
+postgres,13.8,PostgreSQL,postgres13,PostgreSQL 13.8-R1,available,13
+
+postgres,13.9,PostgreSQL,postgres13,PostgreSQL 13.9-R1,available,13
+
+postgres,14.1,PostgreSQL,postgres14,PostgreSQL 14.1-R1,available,14
+
+postgres,14.2,PostgreSQL,postgres14,PostgreSQL 14.2-R1,available,14
+
+postgres,14.3,PostgreSQL,postgres14,PostgreSQL 14.3-R1,available,14
+
+postgres,14.4,PostgreSQL,postgres14,PostgreSQL 14.4-R1,available,14
+
+postgres,14.5,PostgreSQL,postgres14,PostgreSQL 14.5-R1,available,14
+
+postgres,14.6,PostgreSQL,postgres14,PostgreSQL 14.6-R1,available,14
+
+sqlserver-ee,12.00.6293.0.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-12.0,SQL Server 2014 12.00.6293.0.v1,available,12.00
+
+sqlserver-ee,12.00.6329.1.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-12.0,SQL Server 2014 12.00.6329.1.v1,available,12.00
+
+sqlserver-ee,12.00.6433.1.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-12.0,SQL Server 2014 12.00.6433.1.v1,available,12.00
+
+sqlserver-ee,12.00.6439.10.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-12.0,SQL Server 2014 12.00.6439.10.v1,available,12.00
+
+sqlserver-ee,13.00.6300.2.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-13.0,SQL Server 2016 13.00.6300.2.v1,available,13.00
+
+sqlserver-ee,13.00.6419.1.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-13.0,SQL Server 2016 13.00.6419.1.v1,available,13.00
+
+sqlserver-ee,14.00.3281.6.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-14.0,SQL Server 2017 14.00.3281.6.v1,available,14.00
+
+sqlserver-ee,14.00.3294.2.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-14.0,SQL Server 2017 14.00.3294.2.v1,available,14.00
+
+sqlserver-ee,14.00.3356.20.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-14.0,SQL Server 2017 14.00.3356.20.v1,available,14.00
+
+sqlserver-ee,14.00.3381.3.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-14.0,SQL Server 2017 14.00.3381.3.v1,available,14.00
+
+sqlserver-ee,14.00.3401.7.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-14.0,SQL Server 2017 14.00.3401.7.v1,available,14.00
+
+sqlserver-ee,14.00.3421.10.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-14.0,SQL Server 2017 14.00.3421.10.v1,available,14.00
+
+sqlserver-ee,14.00.3451.2.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-14.0,SQL Server 2017 14.00.3451.2.v1,available,14.00
+
+sqlserver-ee,15.00.4043.16.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-15.0,SQL Server 2019 15.00.4043.16.v1,available,15.00
+
+sqlserver-ee,15.00.4073.23.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-15.0,SQL Server 2019 15.00.4073.23.v1,available,15.00
+
+sqlserver-ee,15.00.4153.1.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-15.0,SQL Server 2019 15.00.4153.1.v1,available,15.00
+
+sqlserver-ee,15.00.4198.2.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-15.0,SQL Server 2019 15.00.4198.2.v1,available,15.00
+
+sqlserver-ee,15.00.4236.7.v1,Microsoft SQL Server Enterprise Edition,sqlserver-ee-15.0,SQL Server 2019 15.00.4236.7.v1,available,15.00
+
+sqlserver-ex,12.00.6293.0.v1,Microsoft SQL Server Express Edition,sqlserver-ex-12.0,SQL Server 2014 12.00.6293.0.v1,available,12.00
+
+sqlserver-ex,12.00.6329.1.v1,Microsoft SQL Server Express Edition,sqlserver-ex-12.0,SQL Server 2014 12.00.6329.1.v1,available,12.00
+
+sqlserver-ex,12.00.6433.1.v1,Microsoft SQL Server Express Edition,sqlserver-ex-12.0,SQL Server 2014 12.00.6433.1.v1,available,12.00
+
+sqlserver-ex,12.00.6439.10.v1,Microsoft SQL Server Express Edition,sqlserver-ex-12.0,SQL Server 2014 12.00.6439.10.v1,available,12.00
+
+sqlserver-ex,13.00.6300.2.v1,Microsoft SQL Server Express Edition,sqlserver-ex-13.0,SQL Server 2016 13.00.6300.2.v1,available,13.00
+
+sqlserver-ex,13.00.6419.1.v1,Microsoft SQL Server Express Edition,sqlserver-ex-13.0,SQL Server 2016 13.00.6419.1.v1,available,13.00
+
+sqlserver-ex,14.00.3281.6.v1,Microsoft SQL Server Express Edition,sqlserver-ex-14.0,SQL Server 2017 14.00.3281.6.v1,available,14.00
+
+sqlserver-ex,14.00.3294.2.v1,Microsoft SQL Server Express Edition,sqlserver-ex-14.0,SQL Server 2017 14.00.3294.2.v1,available,14.00
+
+sqlserver-ex,14.00.3356.20.v1,Microsoft SQL Server Express Edition,sqlserver-ex-14.0,SQL Server 2017 14.00.3356.20.v1,available,14.00
+
+sqlserver-ex,14.00.3381.3.v1,Microsoft SQL Server Express Edition,sqlserver-ex-14.0,SQL Server 2017 14.00.3381.3.v1,available,14.00
+
+sqlserver-ex,14.00.3401.7.v1,Microsoft SQL Server Express Edition,sqlserver-ex-14.0,SQL Server 2017 14.00.3401.7.v1,available,14.00
+
+sqlserver-ex,14.00.3421.10.v1,Microsoft SQL Server Express Edition,sqlserver-ex-14.0,SQL Server 2017 14.00.3421.10.v1,available,14.00
+
+sqlserver-ex,14.00.3451.2.v1,Microsoft SQL Server Express Edition,sqlserver-ex-14.0,SQL Server 2017 14.00.3451.2.v1,available,14.00
+
+sqlserver-ex,15.00.4043.16.v1,Microsoft SQL Server Express Edition,sqlserver-ex-15.0,SQL Server 2019 15.00.4043.16.v1,available,15.00
+
+sqlserver-ex,15.00.4073.23.v1,Microsoft SQL Server Express Edition,sqlserver-ex-15.0,SQL Server 2019 15.00.4073.23.v1,available,15.00
+
+sqlserver-ex,15.00.4153.1.v1,Microsoft SQL Server Express Edition,sqlserver-ex-15.0,SQL Server 2019 15.00.4153.1.v1,available,15.00
+
+sqlserver-ex,15.00.4198.2.v1,Microsoft SQL Server Express Edition,sqlserver-ex-15.0,SQL Server 2019 15.00.4198.2.v1,available,15.00
+
+sqlserver-ex,15.00.4236.7.v1,Microsoft SQL Server Express Edition,sqlserver-ex-15.0,SQL Server 2019 15.00.4236.7.v1,available,15.00
+
+sqlserver-se,12.00.6293.0.v1,Microsoft SQL Server Standard Edition,sqlserver-se-12.0,SQL Server 2014 12.00.6293.0.v1,available,12.00
+
+sqlserver-se,12.00.6329.1.v1,Microsoft SQL Server Standard Edition,sqlserver-se-12.0,SQL Server 2014 12.00.6329.1.v1,available,12.00
+
+sqlserver-se,12.00.6433.1.v1,Microsoft SQL Server Standard Edition,sqlserver-se-12.0,SQL Server 2014 12.00.6433.1.v1,available,12.00
+
+sqlserver-se,12.00.6439.10.v1,Microsoft SQL Server Standard Edition,sqlserver-se-12.0,SQL Server 2014 12.00.6439.10.v1,available,12.00
+
+sqlserver-se,13.00.6300.2.v1,Microsoft SQL Server Standard Edition,sqlserver-se-13.0,SQL Server 2016 13.00.6300.2.v1,available,13.00
+
+sqlserver-se,13.00.6419.1.v1,Microsoft SQL Server Standard Edition,sqlserver-se-13.0,SQL Server 2016 13.00.6419.1.v1,available,13.00
+
+sqlserver-se,14.00.3281.6.v1,Microsoft SQL Server Standard Edition,sqlserver-se-14.0,SQL Server 2017 14.00.3281.6.v1,available,14.00
+
+sqlserver-se,14.00.3294.2.v1,Microsoft SQL Server Standard Edition,sqlserver-se-14.0,SQL Server 2017 14.00.3294.2.v1,available,14.00
+
+sqlserver-se,14.00.3356.20.v1,Microsoft SQL Server Standard Edition,sqlserver-se-14.0,SQL Server 2017 14.00.3356.20.v1,available,14.00
+
+sqlserver-se,14.00.3381.3.v1,Microsoft SQL Server Standard Edition,sqlserver-se-14.0,SQL Server 2017 14.00.3381.3.v1,available,14.00
+
+sqlserver-se,14.00.3401.7.v1,Microsoft SQL Server Standard Edition,sqlserver-se-14.0,SQL Server 2017 14.00.3401.7.v1,available,14.00
+
+sqlserver-se,14.00.3421.10.v1,Microsoft SQL Server Standard Edition,sqlserver-se-14.0,SQL Server 2017 14.00.3421.10.v1,available,14.00
+
+sqlserver-se,14.00.3451.2.v1,Microsoft SQL Server Standard Edition,sqlserver-se-14.0,SQL Server 2017 14.00.3451.2.v1,available,14.00
+
+sqlserver-se,15.00.4043.16.v1,Microsoft SQL Server Standard Edition,sqlserver-se-15.0,SQL Server 2019 15.00.4043.16.v1,available,15.00
+
+sqlserver-se,15.00.4073.23.v1,Microsoft SQL Server Standard Edition,sqlserver-se-15.0,SQL Server 2019 15.00.4073.23.v1,available,15.00
+
+sqlserver-se,15.00.4153.1.v1,Microsoft SQL Server Standard Edition,sqlserver-se-15.0,SQL Server 2019 15.00.4153.1.v1,available,15.00
+
+sqlserver-se,15.00.4198.2.v1,Microsoft SQL Server Standard Edition,sqlserver-se-15.0,SQL Server 2019 15.00.4198.2.v1,available,15.00
+
+sqlserver-se,15.00.4236.7.v1,Microsoft SQL Server Standard Edition,sqlserver-se-15.0,SQL Server 2019 15.00.4236.7.v1,available,15.00
+
+sqlserver-web,12.00.6293.0.v1,Microsoft SQL Server Web Edition,sqlserver-web-12.0,SQL Server 2014 12.00.6293.0.v1,available,12.00
+
+sqlserver-web,12.00.6329.1.v1,Microsoft SQL Server Web Edition,sqlserver-web-12.0,SQL Server 2014 12.00.6329.1.v1,available,12.00
+
+sqlserver-web,12.00.6433.1.v1,Microsoft SQL Server Web Edition,sqlserver-web-12.0,SQL Server 2014 12.00.6433.1.v1,available,12.00
+
+sqlserver-web,12.00.6439.10.v1,Microsoft SQL Server Web Edition,sqlserver-web-12.0,SQL Server 2014 12.00.6439.10.v1,available,12.00
+
+sqlserver-web,13.00.6300.2.v1,Microsoft SQL Server Web Edition,sqlserver-web-13.0,SQL Server 2016 13.00.6300.2.v1,available,13.00
+
+sqlserver-web,13.00.6419.1.v1,Microsoft SQL Server Web Edition,sqlserver-web-13.0,SQL Server 2016 13.00.6419.1.v1,available,13.00
+
+sqlserver-web,14.00.3281.6.v1,Microsoft SQL Server Web Edition,sqlserver-web-14.0,SQL Server 2017 14.00.3281.6.v1,available,14.00
+
+sqlserver-web,14.00.3294.2.v1,Microsoft SQL Server Web Edition,sqlserver-web-14.0,SQL Server 2017 14.00.3294.2.v1,available,14.00
+
+sqlserver-web,14.00.3356.20.v1,Microsoft SQL Server Web Edition,sqlserver-web-14.0,SQL Server 2017 14.00.3356.20.v1,available,14.00
+
+sqlserver-web,14.00.3381.3.v1,Microsoft SQL Server Web Edition,sqlserver-web-14.0,SQL Server 2017 14.00.3381.3.v1,available,14.00
+
+sqlserver-web,14.00.3401.7.v1,Microsoft SQL Server Web Edition,sqlserver-web-14.0,SQL Server 2017 14.00.3401.7.v1,available,14.00
+
+sqlserver-web,14.00.3421.10.v1,Microsoft SQL Server Web Edition,sqlserver-web-14.0,SQL Server 2017 14.00.3421.10.v1,available,14.00
+
+sqlserver-web,14.00.3451.2.v1,Microsoft SQL Server Web Edition,sqlserver-web-14.0,SQL Server 2017 14.00.3451.2.v1,available,14.00
+
+sqlserver-web,15.00.4043.16.v1,Microsoft SQL Server Web Edition,sqlserver-web-15.0,SQL Server 2019 15.00.4043.16.v1,available,15.00
+
+sqlserver-web,15.00.4073.23.v1,Microsoft SQL Server Web Edition,sqlserver-web-15.0,SQL Server 2019 15.00.4073.23.v1,available,15.00
+
+sqlserver-web,15.00.4153.1.v1,Microsoft SQL Server Web Edition,sqlserver-web-15.0,SQL Server 2019 15.00.4153.1.v1,available,15.00
+
+sqlserver-web,15.00.4198.2.v1,Microsoft SQL Server Web Edition,sqlserver-web-15.0,SQL Server 2019 15.00.4198.2.v1,available,15.00
+
+sqlserver-web,15.00.4236.7.v1,Microsoft SQL Server Web Edition,sqlserver-web-15.0,SQL Server 2019 15.00.4236.7.v1,available,15.00
+
